@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IAQ",
+    "icon": "iaq",
+    "desc": "The gas here is the result of monitoring several types of content in the air which is then processed based on resistance. The greater the concentration of harmful gasses contained in the air, the smaller the resulting number. Therefore, this parameter is very important to be observed as a benchmark for the Air Quality Index."
+  },
+  {
+    "name": "Pressure",
+    "icon": "pressure",
+    "desc": "Air pressure is one of the air parameters that can be monitored, although it is not very important to observe, but we add these parameters as a complement to this monitoring website."
+  },
+  {
+    "name": "Temperature",
+    "icon": "temperature",
+    "desc": "Temperature is one of the air quality monitoring parameters that needs to be monitored. Because humans need the ideal temperature. Because if the temperature changes quickly, the immune system will be reduced."
+  },
+  {
+    "name": "Humidity",
+    "icon": "humidity",
+    "desc": "The most common influence of humidity on the body is the health of the skin or lips. Air that is too dry can cause skin or lips to crack. Therefore, with a sensor that detects air humidity, people can take preventive action, namely by drinking more water if the air condition outside is dry."
+  }
+]
