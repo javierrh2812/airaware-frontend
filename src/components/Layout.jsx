@@ -9,7 +9,7 @@ export default function Layout({ title, children }) {
         <title>{title}</title>
         <meta
           name='description'
-          content='Air Quality Monitoring website kalipaten'
+          content='Monitoreo de calidad del aire'
         />
         <link rel='icon' href='/favicon.ico' />
       </Head>
