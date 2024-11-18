@@ -8,7 +8,7 @@ export default function Feature() {
       <div className='flex flex-col lg:flex-row'>
         <div className='max-w-xl pr-16 mx-auto mb-10'>
           <h5 className='mb-6 text-3xl font-bold leading-none font-sora'>
-            Sensors built into the device for air quality monitoring
+            Sensores en dispositivos para monitorizar la calidad del aire
           </h5>
           <p className='mb-6 text-gray-900 font-manrope text-justify'>
             Cada dispositivo tiene un sensor y un microcontrolador
